@@ -9,3 +9,7 @@
  Compress: `ZStdTool.exe /c file`
 
  Decompress: `ZStdTool.exe /d file`
+
+# References
+
+- [skbkontur/ZstdNet](https://github.com/skbkontur/ZstdNet)
